@@ -1,1 +1,2 @@
 # Informatyka-olzinge
+Ivan Vitiaz
